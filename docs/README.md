@@ -1,6 +1,8 @@
 # Plan On Rocks - documentation
 
-### Inhalt
+[Software Requirement Specification](https://eicul04.github.io/PlanOnRocks-documentation/SRS) <br>
+
+### Technische Entscheidungen
 [Domain Driven Design](https://eicul04.github.io/PlanOnRocks-documentation/DDD) <br>
 [Clean Architecture](https://eicul04.github.io/PlanOnRocks-documentation/CleanArchitecture) <br>
 [Programming Principles](https://eicul04.github.io/PlanOnRocks-documentation/ProgrammingPrinciples) <br>
