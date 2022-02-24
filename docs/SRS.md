@@ -49,6 +49,14 @@ Zusätzlich wird die entsprechende Liste der Kletterfelsen gefiltert nach dem an
 
 Liegt das Ausflugs Datum maximal 8 Tage in der Zukunft, soll in den Ausflugstipps, ein Wettericon (Sonne/Wolke/Regen/Schnee) das Wetter für das angegebene Datum und den Standort des jeweiligen Felsen anzeigen. Regnet es in über drei Felsstandorten (falls es mehr als drei Felsstandorte gibt; sonst gilt: regnet es an allen Felsstandorten) kommt eine Warnmeldung: "Willst du wirklich an diesem Tag klettern gehen?"
 
+## Views
+
+### Main Page
+![](https://github.com/eicul04/PlanOnRocks-documentation/blob/main/mockups/mainView.png)
+
+### Add Rock Dialog
+![](https://github.com/eicul04/PlanOnRocks-documentation/blob/main/mockups/addRock.png)
+
 ## Technologie Stack
 
 #### Frontend
