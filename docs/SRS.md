@@ -52,10 +52,19 @@ Liegt das Ausflugs Datum maximal 8 Tage in der Zukunft, soll in den Ausflugstipp
 ## Views
 
 ### Main Page
-![](https://github.com/eicul04/PlanOnRocks-documentation/blob/main/mockups/mainView.png)
+![](https://github.com/eicul04/PlanOnRocks-documentation/blob/main/mockups/mainView.png?raw=true)
 
-### Add Rock Dialog
-![](https://github.com/eicul04/PlanOnRocks-documentation/blob/main/mockups/addRock.png)
+### Add rock dialog
+![](https://github.com/eicul04/PlanOnRocks-documentation/blob/main/mockups/addRock.png?raw=true)
+
+### Find trip destination
+![](https://github.com/eicul04/PlanOnRocks-documentation/blob/main/mockups/findTripDestination.png?raw=true)
+
+### Trip destination result with weather forecast
+![](https://github.com/eicul04/PlanOnRocks-documentation/blob/main/mockups/tripDestinationWithWeatherForecast.png?raw=true)
+
+### Bad weather warning
+![](https://github.com/eicul04/PlanOnRocks-documentation/blob/main/mockups/badWeatherWarning.png?raw=true)
 
 ## Technologie Stack
 
@@ -78,5 +87,3 @@ Liegt das Ausflugs Datum maximal 8 Tage in der Zukunft, soll in den Ausflugstipp
 
 - Projekt management tool: YouTrack
 - Versions Kontrolle: Git and GitHub
-
-## User Interfaces
