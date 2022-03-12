@@ -9,7 +9,7 @@
 
 
 ## Use Case Diagram
-![](https://github.com/eicul04/PlanOnRocks-documentation/blob/main/planOnRocks_UCD.png?raw=true)
+![](https://github.com/eicul04/PlanOnRocks-documentation/blob/main/diagrams/planOnRocks_UCD.png?raw=true)
 
 ## Use Cases
 
