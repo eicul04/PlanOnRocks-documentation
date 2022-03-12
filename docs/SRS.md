@@ -81,7 +81,7 @@ Liegt das Ausflugs Datum maximal 8 Tage in der Zukunft, soll in den Ausflugstipp
 - Sprache: Java
 - IDE: IntellJ
 - Testen: JUnit4
-- Datenbank: 
+- Datenbank: MariaDB
 
 #### Projektmanagement
 
