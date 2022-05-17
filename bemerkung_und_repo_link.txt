@@ -1,0 +1,7 @@
+Start Bemerkungen
+
+Zu Beginn des Projekts wurde neben der Umsetzung des Backends auch die Umsetzung eines Frontends geplant. Nach Aufsetzen und ersten Implementierungen im Frontend ist schnell klar geworden, dass dieses für die Anwendung der zu lernenden Konzepte des Softwareengineerings nicht geeignet ist. Daher konzentriert sich dieser Programmentwurf auf die Implementierung und Analyse des Backends. Zur Umsetzung der Anwendung kann zukünftig das Frontend erweitert werden. Aufgrund dieses Fokusses sind im letzten Use Case \glqq Wettericon in Ausflugstipss anzeigen\grqq{} nicht alle Anforderungen umgesetzt worden, da diese in größeren Teilen frontendseitige Überprüfungen enthalten.\\
+Der Vollständigkeit halber sollen beide Links zum Backend- und Frontend-Repository zur Verfügung gestellt werden. Zum Nachvollziehen der theoretischen Betrachtungen dieser Arbeit ist nur das Ausführen des Backends erforderlich. Dazu liegt eine Readme-Datei im Repository vor.
+
+PlanOnRocks-Backend: https://github.com/eicul04/PlanOnRocks-backend
+PlanOnRocks-Frontend: https://github.com/eicul04/PlanOnRocks-frontend
